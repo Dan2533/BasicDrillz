@@ -15,5 +15,6 @@ import org.junit.runners.Suite;
         TestDivision.class,
         TestMultiplication.class
 })
-public class TestMathUtilities {
+public class TestMathUtilities{
+
 }

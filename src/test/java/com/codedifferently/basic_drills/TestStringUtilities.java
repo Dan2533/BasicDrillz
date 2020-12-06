@@ -117,9 +117,10 @@ public class TestStringUtilities {
 
 
     @Test
-    public void getTheMiddleCharOfZipcoder(){
+    public void getTheMiddleCharOfZipcode2(){
+
         // : Given
-        String input = "Zipcoder";
+        String input = "Zipcode";
         Character expected = 'c';
 
         // : When
