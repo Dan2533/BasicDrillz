@@ -76,15 +76,6 @@ public class StringUtilities {
             spaceDelimitedString = "Zipcode Wilmington";
             return spaceDelimitedString.substring(0,7);
     }
- //       String empty = "";
-//        for(int i = 0;i <spaceDelimitedString.length();i++) {
-//            if(spaceDelimitedString.charAt(i)!=' ') {
- //               empty+= spaceDelimitedString.charAt(i);
-
- //           } else {
-//                break;
-  //        }
-//        }
 
     /**
      * @param spaceDelimitedString a string delimited by spaces
